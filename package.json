@@ -13,7 +13,12 @@
   "author": "Enes Karakaş",
   "license": "ISC",
   "dependencies": {
+    "@types/node": "^18.11.1",
     "chalk": "^5.1.2",
     "yargs": "^17.6.0"
+  },
+  "devDependencies": {
+    "@types/yargs": "^17.0.13",
+    "typescript": "^4.8.4"
   }
 }
